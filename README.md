@@ -2,11 +2,11 @@
 ---
 #### 平时积累的各种技能图谱。
 
-[JavaCore](http://7xqumq.com1.z0.glb.clouddn.com/java_core.gif)
-![JavaCore](http://7xqumq.com1.z0.glb.clouddn.com/java_core.gif)
+[JavaCore](http://7xqumq.com1.z0.glb.clouddn.com/java_core.png)
+![JavaCore](http://7xqumq.com1.z0.glb.clouddn.com/java_core.png)
 
-[J2EE](http://7xqumq.com1.z0.glb.clouddn.com/j2ee.gif)
-![J2EE](http://7xqumq.com1.z0.glb.clouddn.com/j2ee.gif)
+[J2EE](http://7xqumq.com1.z0.glb.clouddn.com/j2ee.png)
+![J2EE](http://7xqumq.com1.z0.glb.clouddn.com/j2ee.png)
 
 [web前端](http://7xqumq.com1.z0.glb.clouddn.com/web_front.jpg)
 ![web前端](http://7xqumq.com1.z0.glb.clouddn.com/web_front.jpg)
