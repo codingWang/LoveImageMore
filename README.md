@@ -1,6 +1,6 @@
 ## **I Love Images More**
 ---
-####  本技能图谱本技能图谱包含
+####  本技能图谱包含以下内容
 + JAVA核心技能树 
 + J2EE开发技能树
 + AndroidApp开发技能树
