@@ -5,11 +5,9 @@
 + J2EE开发技能树
 + AndroidApp开发技能树
 + AndroidRom开发技能树
-+ 全栈工程师技能树
 + App性能优化技能树
 + Web前端技能树
-+ 全栈工程师技能树 
-
++ 全栈工程师技能树
 
 [JavaCore](http://7xqumq.com1.z0.glb.clouddn.com/java_core.png)
 ![JavaCore](http://7xqumq.com1.z0.glb.clouddn.com/java_core.png)
